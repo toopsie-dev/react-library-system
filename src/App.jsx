@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./App.css";
 import RootLayout from "./shared/layouts/RootLayout";
 
@@ -10,5 +11,14 @@ function App() {
     </>
   );
 }
+=======
+const App = () => {
+  return (
+    <div>
+      <h1>Library System</h1>
+    </div>
+  );
+};
+>>>>>>> dev-vhin
 
 export default App;
